@@ -1,0 +1,17 @@
+{
+  "name": "incubyte",
+  "version": "1.0.0",
+  "description": "Full Stack Application for a sweet shop",
+  "license": "ISC",
+  "author": "Hrishav Raj",
+  "type": "module",
+  "main": "backend/index.js",
+  "scripts": {
+    "start": "node backend/index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
